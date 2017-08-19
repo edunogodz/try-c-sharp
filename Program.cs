@@ -6,8 +6,11 @@ namespace try_c_sharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Type a message");
-            Console.WriteLine("You said " + Console.ReadLine());
+            Console.WriteLine("What is the name your band?");
+            String name = Console.ReadLine();
+            Console.WriteLine("How many people are in your band?");
+            int numberOfMembers = int.Parse(Console.ReadLine());
+            Console.WriteLine(name + " has "+ numberOfMembers + " members");
         }
     }
 }
