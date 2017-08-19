@@ -1,0 +1,10 @@
+D:\Learn\Codeschool\try-c-sharp\bin\Debug\netcoreapp2.0\try-c-sharp.deps.json
+D:\Learn\Codeschool\try-c-sharp\bin\Debug\netcoreapp2.0\try-c-sharp.runtimeconfig.json
+D:\Learn\Codeschool\try-c-sharp\bin\Debug\netcoreapp2.0\try-c-sharp.runtimeconfig.dev.json
+D:\Learn\Codeschool\try-c-sharp\bin\Debug\netcoreapp2.0\try-c-sharp.dll
+D:\Learn\Codeschool\try-c-sharp\bin\Debug\netcoreapp2.0\try-c-sharp.pdb
+D:\Learn\Codeschool\try-c-sharp\obj\Debug\netcoreapp2.0\try-c-sharp.csproj.CoreCompileInputs.cache
+D:\Learn\Codeschool\try-c-sharp\obj\Debug\netcoreapp2.0\try-c-sharp.AssemblyInfoInputs.cache
+D:\Learn\Codeschool\try-c-sharp\obj\Debug\netcoreapp2.0\try-c-sharp.AssemblyInfo.cs
+D:\Learn\Codeschool\try-c-sharp\obj\Debug\netcoreapp2.0\try-c-sharp.dll
+D:\Learn\Codeschool\try-c-sharp\obj\Debug\netcoreapp2.0\try-c-sharp.pdb
